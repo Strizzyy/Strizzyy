@@ -1,114 +1,57 @@
-# Rohan Singh
+<div align="center">
+
+# Hi there, I'm Rohan Singh 👋
 
 ### Backend Developer | AI/ML Engineer | Full-Stack Developer
 
----
-
-## About Me
-
-I'm a Computer Science student at Rajiv Gandhi Institute of Petroleum Technology, specializing in building scalable backend systems and AI-powered applications. Currently working as a Backend Software Developer Intern at KrishiCentral and developing innovative AI solutions.
-
-### Current Focus
-
-**Working On**
-- **LegalSaathi**: AI-powered legal document advisor using FastAPI, Neo4j, and Google Cloud AI
-- Backend microservices development at KrishiCentral with Spring Boot
-
-**Learning**
-- Advanced Agentic AI architectures with LangGraph
-- Cloud-native microservices deployment on Azure
-- Graph databases and knowledge graphs with Neo4j
-
-**Open to Collaborate On**
-- Open-source AI/ML projects involving RAG and agentic workflows
-- Full-stack applications with Spring Boot and React
-- Projects leveraging NLP and multimodal AI
+</div>
 
 ---
 
-## Technical Skills
+### About Me
 
-**Languages**  
-Java • Python • JavaScript • SQL • HTML • CSS
+CS student at RGIPT specializing in scalable backend systems and AI-powered applications. Building microservices at **KrishiCentral** and crafting intelligent solutions with Spring Boot, FastAPI, and LangGraph.
 
-**Frameworks & Libraries**  
-Spring Boot • Spring Security • React.js • FastAPI • Flask • LangChain • LangGraph • Express.js • Streamlit
+- 🔨 Currently building **LegalSaathi** - AI-powered legal document advisor
+- 🌱 Learning advanced agentic AI architectures and cloud-native deployment
+- 💡 Interested in RAG, multimodal AI, and distributed systems
+- 🏆 Microsoft Bhasha Bandhu Hackathon Winner
 
-**Databases**  
-MySQL • MongoDB • PostgreSQL • Neo4j • Redis • AWS S3
+### Tech Stack
 
-**AI/ML**  
-Agentic AI • Machine Learning • NLP • RAG • FAISS • Pinecone • HuggingFace
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-**Tools & Platforms**  
-Git • Docker • Postman • Maven • Azure • AWS • Render
+### Featured Projects
 
----
+**[LegalSaathi](https://github.com/Strizzyy/LegalSaathi)** - AI legal document advisor with sub-3s analysis using Google Cloud AI & Neo4j
 
-## Professional Experience
+**[CARE](https://github.com/Strizzyy/CARE)** - Customer support automation with 87% success rate using LangGraph agentic workflows
 
-**Backend Software Developer Intern** | KrishiCentral *(July 2025 - Present)*
-- Accelerated backend processing by 30% using Spring Boot and async MongoDB queries
-- Engineered Dockerized microservices on Azure for 20+ REST APIs with JWT RBAC
-
-**AI/ML Application Engineer Intern** | Humanitics Dimensions Software *(June 2025 - Aug 2025)*
-- Boosted chatbot accuracy by 25% with LangGraph and RAG workflows
-- Reduced query latency by 15% through Neo4j knowledge graph integration
-
-**Software Developer Intern** | Opalina Technologies *(May 2024 - July 2024)*
-- Optimized file processing speed by 40% using Java's CompletableFuture
-- Improved application stability and reduced critical bugs by 30%
+**[Enterprise E-Commerce](https://github.com/Strizzyy/Enterprise-Ecommerce)** - Full-stack platform with 40+ REST APIs and real-time analytics
 
 ---
 
-## Featured Projects
+<div align="center">
 
-### [LegalSaathi: AI-Powered Legal Document Advisor](https://github.com/Strizzyy/LegalSaathi)
-FastAPI • React • Google Cloud AI • Neo4j • Docker  
-Sub-3s document analysis using Google Cloud AI services with a traffic-light risk system for identifying harmful clauses
+### GitHub Stats
 
-### [CARE: Customer Assistance Resolution Engine](https://github.com/Strizzyy/CARE)
-LangGraph • FastAPI • MongoDB • Docker  
-87% automation and 94% accuracy in support tickets via agentic workflows and multimodal AI
+<img src="https://github-readme-stats.vercel.app/api?username=Strizzyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Strizzyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-### [Enterprise E-Commerce Platform](https://github.com/Strizzyy/Enterprise-Ecommerce)
-Spring Boot • React.js • MySQL • Razorpay  
-Full-stack admin portal with 40+ REST APIs and real-time analytics dashboard
-
----
-
-## Achievements
-
-- **Microsoft Bhasha Bandhu Hackathon** - Regional Winner (March 2025)
-- **Training and Placement Coordinator** - RGIPT (June 2025 - June 2027)
-- **Music Club Head** - RGIPT Cultural Council (Aug 2025 - May 2026)
-
----
-
-## Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-singh-190b99289)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strizzyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohan.singh200402@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cVzYwqCD)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1EqjgpAgd_4TztIkS3-_Tt95Vwi4HSYMo/view?usp=sharing)
 
-**Resume**: [View My Resume](https://drive.google.com/file/d/1EqjgpAgd_4TztIkS3-_Tt95Vwi4HSYMo/view?usp=sharing)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strizzyy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Strizzyy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strizzyy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to interesting opportunities and collaborations!</i>
-</p>
+</div>
