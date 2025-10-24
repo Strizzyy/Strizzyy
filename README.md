@@ -31,6 +31,20 @@ CS student at RGIPT specializing in scalable backend systems and AI-powered appl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+### Experience
+
+**Backend Software Developer Intern** @ KrishiCentral *(July 2025 - Present)*
+- Accelerated backend processing by 30% using Spring Boot and async MongoDB queries
+- Engineered Dockerized microservices on Azure for 20+ REST APIs with JWT RBAC
+
+**AI/ML Application Engineer Intern** @ Humanitics Dimensions Software *(June 2025 - Aug 2025)*
+- Boosted chatbot accuracy by 25% with LangGraph and RAG workflows
+- Reduced query latency by 15% through Neo4j knowledge graph integration
+
+**Software Developer Intern** @ Opalina Technologies *(May 2024 - July 2024)*
+- Optimized file processing speed by 40% using Java's CompletableFuture
+- Improved application stability and reduced critical bugs by 30%
+
 ### Featured Projects
 
 **[LegalSaathi](https://github.com/Strizzyy/LegalSaathi)** - AI legal document advisor with sub-3s analysis using Google Cloud AI & Neo4j
