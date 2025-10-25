@@ -15,7 +15,7 @@ CS student at RGIPT specializing in scalable backend systems and AI-powered appl
 - 🔨 Currently building **LegalSaathi** - AI-powered legal document advisor
 - 🌱 Learning advanced agentic AI architectures and cloud-native deployment
 - 💡 Interested in RAG, multimodal AI, and distributed systems
-- 🏆 Microsoft Bhasha Bandhu Hackathon Winner
+- 🏆 Microsoft Bhasha Bandhu Hackathon Regional Winner
 
 ### Tech Stack
 
