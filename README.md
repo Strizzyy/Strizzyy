@@ -10,7 +10,7 @@
 
 ### About Me
 
-CS student at RGIPT specializing in scalable backend systems and AI-powered applications. Building microservices at **KrishiCentral** and crafting intelligent solutions with Spring Boot, FastAPI, and LangGraph.
+CS student at RGIPT specializing in scalable backend systems and AI-powered applications.
 
 - 🔨 Currently building **LegalSaathi** - AI-powered legal document advisor
 - 🌱 Learning advanced agentic AI architectures and cloud-native deployment
@@ -32,10 +32,6 @@ CS student at RGIPT specializing in scalable backend systems and AI-powered appl
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Experience
-
-**Backend Software Developer Intern** @ KrishiCentral *(July 2025 - Present)*
-- Accelerated backend processing by 30% using Spring Boot and async MongoDB queries
-- Engineered Dockerized microservices on Azure for 20+ REST APIs with JWT RBAC
 
 **AI/ML Application Engineer Intern** @ Humanitics Dimensions Software *(June 2025 - Aug 2025)*
 - Boosted chatbot accuracy by 25% with LangGraph and RAG workflows
